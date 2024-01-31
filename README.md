@@ -42,17 +42,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  - - Settling on a consistent way to Format the code
  - - Deciding on Naming Conventions for files and folders
  - - How to approach the project
- - - What auxillary programs I often use and how to keep them readily available
-
- I have added a second monitor and found it to be a huge help. For starters it allows me to write code on one screen and view my page in a browser on the other screen. Beats flipping back and forth on the same screen. I would highly recommend another monitor if your finances, computer, and space allow it.
+ - - What auxillary programs to consistently and how to keep them readily available
  
 ### Continued development
 
-- A big challenge I need to overcome is to quit 'copying and pasting code' and to actually write the code in place when and where as needed.
+- A big challenge I need to overcome is to quit 'copying and pasting code' and to actually write the code in place when and where needed.
 
 ## Author
 
-- Website - [John Borman](https://www.your-site.com)
+- Frontend Mantor Landing Page - [John Borman](https://madartistphoto.github.io/FM-Landing-Page/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MadArtistPhoto)
 
 

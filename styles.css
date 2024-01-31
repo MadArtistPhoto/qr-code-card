@@ -7,15 +7,30 @@
     --background: hsl(212, 45%, 89%);
     --text: hsl(220, 15%, 55%);
     --heading: hsl(218, 44%, 22%);
+    --shadow:hsl(0,0%,80%);
 
     --fontsize: 15px;
     font-family: Outfit;
+}
+
+*, ::before, ::after
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img
+{
+    width: 100%;
+    height: auto;
 }
 
 body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: var(--background);
 }
 
 #container
@@ -31,14 +46,21 @@ body{
     align-items: center;
 }
 
-#main
+main
 {
     background-color: var(--white);
     width: 320px;
     height: 500px;
     border: 1px solid var(--text);
     border-radius: 25px;
-    box-shadow: 4px 4px 4px rgb(116, 111, 111);
+    box-shadow: 0px 25px 25px var(--shadow);
+}
+
+.img
+{
+    width: 280px;
+    border-radius: 10px;
+    margin: 20px;
 }
 
 h1{
@@ -49,26 +71,17 @@ h1{
     text-align: center;
 }
 
-.main
+.scan
 {
     color: var(--text);
     margin: 25px 30px;
     text-align: center;
 }
 
-img
+@media screen and (min-width:600px)
 {
-    border-radius: 10px;
-    margin: 15px;
-}
-
-.attribution
-{   
-    font-size: 11px;
-    text-align: center;
-    margin-top: 10px;
-}
-.attribution a
-{
-    color: hsl(228, 45%, 44%);
+    main
+    {
+        box-shadow: 25px 25px 25px var(--shadow);
+    }
 }
