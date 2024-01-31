@@ -20,12 +20,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/screenshot.jpg)
+![Screenshot](images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://madartistphoto.github.io/qr-code-component-main)
 
 ## My process
 
@@ -33,6 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS3
+- Zoner Photo Studio X 
 
 ### What I learned
 
@@ -51,7 +51,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mantor Landing Page - [John Borman](https://madartistphoto.github.io/FM-Landing-Page/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MadArtistPhoto)
+- Frontend Mentor - [John Borman](https://www.frontendmentor.io/profile/MadArtistPhoto)
 
 
 ## Acknowledgments
