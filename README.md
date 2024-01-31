@@ -32,7 +32,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS3
-- Zoner Photo Studio X 
+- GitHub Desktop
+- Zoner Photo Studio X (to view the images)
+- Paint.net (to create the Screenshot)
 
 ### What I learned
 
@@ -42,7 +44,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  - - Settling on a consistent way to Format the code
  - - Deciding on Naming Conventions for files and folders
  - - How to approach the project
- - - What auxillary programs to consistently and how to keep them readily available
+ - - What auxillary programs I frequently use and how to keep them readily available
  
 ### Continued development
 
