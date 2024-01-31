@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -55,7 +54,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Frontend Mentor Landing Page - [John Borman](https://madartistphoto.github.io/FM-Landing-Page/)
 - Frontend Mentor - [John Borman](https://www.frontendmentor.io/profile/MadArtistPhoto)
 
-
-## Acknowledgments
 
 
