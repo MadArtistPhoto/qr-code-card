@@ -52,7 +52,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mantor Landing Page - [John Borman](https://madartistphoto.github.io/FM-Landing-Page/)
+- Frontend Mentor Landing Page - [John Borman](https://madartistphoto.github.io/FM-Landing-Page/)
 - Frontend Mentor - [John Borman](https://www.frontendmentor.io/profile/MadArtistPhoto)
 
 
